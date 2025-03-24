@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WADAMZ PRO SOFTWARES</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin: 0; padding: 0; }
+        header { background-color: #0073e6; color: white; padding: 20px; font-size: 24px; font-weight: bold; }
+        section { padding: 20px; }
+        .product-item { margin: 10px; display: inline-block; }
+        footer { background-color: #333; color: white; padding: 10px; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <header>WADAMZ PRO SOFTWARES - Leading Accounting Solutions</header>
+    
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Welcome to WADAMZ PRO SOFTWARES, your trusted provider of cutting-edge accounting software solutions. We specialize in efficient and user-friendly financial management tools.</p>
+    </section>
+    
+    <section id="products">
+        <h2>Our Products</h2>
+        <div class="product-item">📊 Financial Management Software</div>
+        <div class="product-item">💼 Payroll Processing Tools</div>
+        <div class="product-item">📈 Tax Filing & Compliance Systems</div>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: sonowiti5@gmail.com</p>
+        <p>Phone: 0112110283</p>
+        <p>Location: Kisumu, Kenya</p>
+    </section>
+    
+    <footer>
+        &copy; 2025 WADAMZ PRO SOFTWARES. All Rights Reserved.
+    </footer>
+</body>
+</html>
